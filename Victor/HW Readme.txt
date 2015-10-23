@@ -1,3 +1,5 @@
+
+
 Home Work 1:
 1. page-mock.png is the layout image, just follow the layout.
 2. mug.png is the image you will use.
